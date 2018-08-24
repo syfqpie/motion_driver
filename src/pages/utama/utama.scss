@@ -1,0 +1,25 @@
+page-utama {
+    .marginTop{
+        margin-top:30px;
+    }
+
+    ion-avatar,
+    ion-avatar > img{
+        height:90%;
+        width:90%;
+        margin: auto;
+    }
+
+    h3{
+        color:#101010;
+    }
+    
+    h5{
+        color:  #404040;
+    }
+
+    ion-card-header{
+        background-color: #F5F5F5; 
+    }
+
+}
